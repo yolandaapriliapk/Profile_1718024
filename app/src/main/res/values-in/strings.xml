@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1718024_Profile</string>
+    <string name="follow">IKUTI</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Diikuti</string>
+    <string name="message">PESAN</string>
+    <string name="photos">Foto</string>
+    <string name="ITN">Institut Teknologi Nasional Malang</string>
+    <string name="IT">Teknik Informatika</string>
+</resources>
