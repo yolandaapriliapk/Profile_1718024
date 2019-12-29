@@ -190,7 +190,7 @@
             android:background="@drawable/buttonstylegradient"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="40dp"
             android:layout_gravity="center_horizontal"
             android:text="@string/follow"/>
 
@@ -201,6 +201,14 @@
             android:layout_marginTop="10dp"
             android:background="@drawable/buttonstylegradient"
             android:text="@string/message"
-            android:textColor="#fff" />
+            android:textColor="#fff"/>
+
+        <ImageButton
+            android:id="@+id/setting"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_settings_black_24dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="340dp"/>
     </LinearLayout>
 </LinearLayout>
